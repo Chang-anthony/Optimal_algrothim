@@ -4,11 +4,13 @@
 @author : anthony 2022 09 24 粒子群演算法(PSO)
 """
 
+
 import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
 import sys
 # np.random.seed(1)
+print("hello")
 
 #target function
 def fitness(x):
